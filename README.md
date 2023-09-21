@@ -1,3 +1,3 @@
 # ReactWP
 
-ReactJS WordPress FSE Theme. (coming soon)
+ReactJS WordPress FSE Theme.
